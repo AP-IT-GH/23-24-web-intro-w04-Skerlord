@@ -5,12 +5,37 @@
     border: 1px solid rgba(86, 61, 124, .2);
   }
 
+.col {
+  color: blue;
+}
+
+.col-sm {
+  color:green;
+}
+
+.col-md {
+  color:aqua;
+}
+
+.col-lg {
+  color:yellow;
+}
+
+.col-xl {
+  color:red;
+}
+
+.col-xxl {
+  color:white;
+}
+
 
 /* X-Small devices (portrait phones, less than 576px)
 No media query for `xs` since this is the default in Bootstrap */
 
 /* Small devices (landscape phones, 576px and up)*/
-@media (min-width: 576px) {}
+@media (min-width: 576px){
+}
 
 /* Medium devices (tablets, 768px and up)*/
 @media (min-width: 768px) {}
